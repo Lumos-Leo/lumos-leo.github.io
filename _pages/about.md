@@ -31,11 +31,11 @@ I am currently a Ph.D. student at the SICE from the University of Electronic Sci
 
 # Educations
 - *2022.09 - Present*, Ph.D., University of Electronic Science and Technology of China (UESTC).  
-- *2017.09 - 2020.06*, M.S., Chongqing University of Posts and Telecommunications (CQUPT).  
+- *2017.09 - 2020.06*, M.E., Chongqing University of Posts and Telecommunications (CQUPT).  
 - *2013.09 - 2017.06*, B.E., Chongqing University (CQU). 
 
 # Experience
-- *2021.09 - 2022.08*, RA, University of Electronic Science and Technology of China (UESTC).  
+- *2021.09 - 2022.08*, Research Assistant, University of Electronic Science and Technology of China (UESTC).  
 - *2020.09 - 2021.08*, Researcher, Sinovatio.  
 
 # Academic Services
