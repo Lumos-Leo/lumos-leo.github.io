@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student at the SICE from the University of Electronic Science and Technology of China (UESTC), supervised by Prof. Le Zhang and Prof. Ce Zhu. I received my Master's degree at the Chongqing University of Posts and Telecommunications (CQUPT), supervised by Prof. Jianhong Zheng. Before that, I got my Bachelor's degree from the Chongqing University (CQU). My research interests include computer vision, and image restoration.
-
+I am currently pursuing my Ph.D. in the School of Information and Communication Engineering (SICE) at the University of Electronic Science and Technology of China (UESTC), under the joint supervision of Prof. Le Zhang and Prof. Ce Zhu. I earned my Master's degree from Chongqing University of Posts and Telecommunications (CQUPT), where I was advised by Prof. Jianhong Zheng, and completed my Bachelor's degree at Chongqing University (CQU). My research focuses on computer vision and deep learning, with particular interest in image restoration.
 
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 Two papers are accepted to CVPR 2025. 
@@ -31,8 +30,8 @@ I am currently a Ph.D. student at the SICE from the University of Electronic Sci
 
 # Educations
 - *2022.09 - Present*, Ph.D., University of Electronic Science and Technology of China (UESTC).  
-- *2017.09 - 2020.06*, M.E., Chongqing University of Posts and Telecommunications (CQUPT).  
-- *2013.09 - 2017.06*, B.E., Chongqing University (CQU). 
+- *2017.09 - 2020.06*, M.S., Chongqing University of Posts and Telecommunications (CQUPT).  
+- *2013.09 - 2017.06*, B.S., Chongqing University (CQU). 
 
 # Experience
 - *2021.09 - 2022.08*, Research Assistant, University of Electronic Science and Technology of China (UESTC).  
