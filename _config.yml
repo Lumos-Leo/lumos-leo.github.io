@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ao Li"
-description              : "Ph.D. Student"
+description              : "University of Electronic Science and Technology of China"
 repository               : "Lumos-Leo/lumos-leo.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ao Li (李骜)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "University of Electronic Science and Technology of China"
+  bio              : "Ph.D. Student"
   location         : "Chengdu, China"
   employer         :
   pubmed           : 
